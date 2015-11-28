@@ -1,0 +1,7 @@
+Things to decide:
+
+* Rules should be SIMPLE.
+
+* How do they reproduce?
+
+* What environmental forces are continually acting on them?  E.g. gravity?
